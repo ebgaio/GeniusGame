@@ -16,7 +16,7 @@ public class GeniusTest {
 	}
 	
 	public List<Integer> piscarQuatroLuzes() {
-		List<Integer> numeros = new ArrayList<>();
+		List<Integer> numeros = new ArrayList<>(); 
 		return numeros;
 	}
 
